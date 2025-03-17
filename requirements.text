@@ -1,4 +1,4 @@
-dotenv
+python-dotenv
 pandas
 streamlit
 langchain_groq
